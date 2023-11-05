@@ -1,0 +1,27 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvAnimalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:padding="16dp"
+        android:text="Animal Details"/>
+
+    <TextView
+        android:id="@+id/tvAnimalDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Several dog breeds are commonly used as police dogs due to their intelligence, strength, and agility. Common police dog breeds include German Shepherds, Belgian Malinois, Dutch Shepherds, and Labrador Retrievers. However, other breeds can also be "/>
+
+    <Button
+        android:id="@+id/btnBlockAnimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Block Animal"/>
+</LinearLayout>

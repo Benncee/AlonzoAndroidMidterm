@@ -1,0 +1,37 @@
+<resources>
+    <string-array name="animal_names">
+        <item>Ant</item>
+        <item>Bear</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Elephant</item>
+        <item>Elephant</item>
+        <item>Elephant</item>
+        <item>Elephant</item>
+        <item>Elephant</item>
+        <item>Elephant</item>
+        <item>Elephant</item>
+        <item>Fox</item>
+        <item>Giraffe</item>
+        <item>Hedgehog</item>
+        <item>Iguana</item>
+        <item>Jaguar</item>
+        <item>Kangaroo</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>Newt</item>
+        <item>Ostrich</item>
+        <item>Penguin</item>
+        <item>Quokka</item>
+        <item>Raccoon</item>
+        <item>Seagull</item>
+        <item>Tiger</item>
+        <item>Uakari</item>
+        <item>Vulture</item>
+        <item>Walrus</item>
+        <item>Xenopus</item>
+        <item>Yak</item>
+        <item>Zebra</item>
+    </string-array>
+    <string name="app_name" />
+</resources>
